@@ -1,2 +1,4 @@
 for i in range(0,10):
-	print("hello python!")
+	if i%2 == 0:
+		print("hello python!")
+
